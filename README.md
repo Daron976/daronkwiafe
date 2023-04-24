@@ -34,7 +34,7 @@ This is a personal portfolio website built with react
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
+  <summary>Tech Stack</summary>
   <ul>
     <li><a href="https://reactjs.org/">ReactJS</a></li>
     <li><a href="https://www.javascript.com/">JS</a></li>
